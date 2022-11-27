@@ -437,9 +437,9 @@
     - new Promise()
 
   - 프로미스의 상태를 나타내는 것은 어떤 것들이 있나요? 🔥
-    - 성공/실패 판정 전에는 <pending> 
-    - 성공 후엔  <resolved>
-    - 실패 후엔 <rejected> 
+    - 성공/실패 판정 전에는 pending
+    - 성공 후엔  resolved
+    - 실패 후엔 rejected
   - 프로미스 빌트인 객체가 제공하는 정적 메서드에 대해 알고 있나요? 🔥
     - then() 성공시
     - catch() 실패시
